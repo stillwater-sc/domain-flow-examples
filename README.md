@@ -5,7 +5,7 @@ Community provided domain flow algorithm examples
 
 NAME                         | CONTENT                        |
 ---------------------------- |------------------------------- |
-[nbody_sim](nbody_sim)       | N-body simulation engine
+[nbody-sim](nbody-sim)       | N-body simulation engine
 [r-opencl](r-opencl)         | R with OpenCL integration
 [rpi-vision](rpi-camera)     | Raspberry pi vision
 [vfft](vfft)                 | Very fast FFT 
