@@ -8,7 +8,7 @@ NAME                         | CONTENT                        |
 [nbody-sim](nbody-sim)       | N-body simulation engine
 [r-opencl](r-opencl)         | R with OpenCL integration
 [rpi-vision](rpi-vision)     | Raspberry pi vision
-[vfft](vfft)                 | Very fast FFT 
+[stream-fft](stream-fft)     | Streaming FFT 
 
 ## Contributing
 
